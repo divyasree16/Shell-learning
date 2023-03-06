@@ -10,5 +10,4 @@ Shell scripting topics
 7. Exit status
 8. Quotes
 9. Redirectories
-10.Comments
-10. 
+10. Comments
